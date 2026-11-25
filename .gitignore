@@ -1,0 +1,15 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/
+mnist_cnn/
+data/*
+!data/startup_animation.json
+data/memory_*.json
+data/task_checkpoint.json
+*.pth
+*.whl
+mooowind_memory.json
+Output/
